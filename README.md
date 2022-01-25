@@ -9,7 +9,7 @@ $ npm i -g truffle
 ## Descargar el repositorio 
 
 ```
-$ git clone
+$ git clone https://github.com/kvl-ballester/Asignatura-dapp.git
 ```
 
 ## Compilar los contratos inteligentes
